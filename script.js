@@ -1,5 +1,4 @@
-// CALCULATOR PROGRAM
-
+//Kodi me funksionet e thjeshta ne Js 
 const display = document.getElementById("display");
 
 function appendToDisplay(input){
